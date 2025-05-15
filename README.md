@@ -1,6 +1,6 @@
 # Grocery-Store
 🛒 Inventory & Billing System
-Inventory & Billing System is a beginner-friendly, web-based application built using Ruby on Rails and PostgreSQL. Designed specifically for small grocery stores, it allows store owners to manage inventory and generate simple customer bills with ease through a clean, user-friendly interface.
+is a beginner-friendly, web-based application built using Ruby on Rails and PostgreSQL. Designed specifically for small grocery stores, it allows store owners to manage inventory and generate simple customer bills with ease through a clean, user-friendly interface.
 
 🚀 Key Features
 🔐 Secure Admin Login
